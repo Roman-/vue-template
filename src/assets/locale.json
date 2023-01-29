@@ -1,0 +1,12 @@
+{
+  "en": {
+    "home_view": {
+      "hello": "Hello world"
+    }
+  },
+  "ru": {
+    "home_view": {
+      "hello": "Привет, мир"
+    }
+  }
+}
