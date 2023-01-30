@@ -2,5 +2,12 @@
 </script>
 
 <template>
-  {{$t("home_view.hello")}}
+  <div class="m-2">
+    <p>
+      {{$t("main.hello")}}
+    </p>
+  </div>
 </template>
+
+<style scoped>
+</style>
