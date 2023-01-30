@@ -1,4 +1,5 @@
 <script setup>
+import ThemeView from "@/views/ThemeView.vue";
 </script>
 
 <template>
@@ -6,6 +7,7 @@
     <p>
       {{$t("main.hello")}}
     </p>
+    <ThemeView/>
   </div>
 </template>
 
